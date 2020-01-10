@@ -1,14 +1,38 @@
+body {
+    margin: 20px;
+    background-color: beige;
+}
+
 img {
     width:500px;
 }
 
+.box {
+    border: 10px gray;
+}
+
+.about {
+    border: darkgray;
+}
+
+.font {
+    font-family: sans-serif;
+}
+
+.gray {
+    background-color: darkgray;
+}
+
 .column {
     background-color: cyan;
+    float: left;
+    width: 330px;
+    height:264px;
 }
 
 .column2 {
-    
-    float: ;
+    width:400px;
+    float: left;
     background-color: azure;
 }
 
