@@ -8,7 +8,7 @@ img {
 }
 
 .box {
-    border: 10px gray;
+    border: 10px green;
 }
 
 .about {
@@ -38,4 +38,8 @@ img {
 
 .list {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.border {
+    border: 20px;
 }
