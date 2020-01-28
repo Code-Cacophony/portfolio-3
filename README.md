@@ -12,8 +12,10 @@ This program was made using HTML, CSS and Bootstrap.
 
 ## INSTALLATION 
 
-*Download entire ZIP file from Github.
-*Open file named _index.html_ on browser of choice.
+* Head to https://github.com/Code-Cacophony/Portfolio
+* Download entire ZIP file.
+* Unzip the ZIP folder.
+* Open file named _index.html_ on browser of choice.
 
 ## KNOWN BUGS
 
