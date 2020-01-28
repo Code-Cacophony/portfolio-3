@@ -16,6 +16,12 @@ This program was made using HTML, CSS and Bootstrap.
 * Download entire ZIP file.
 * Unzip the ZIP folder.
 * Open file named _index.html_ on browser of choice.
+* To clone from Github, head to https://github.com/Code-Cacophony/Portfolio
+* Click "Clone or Download*
+* Copy link provided in pop up.
+* Open Terminal, type "git clone" then paste github link
+* cd to Desktop, then cd to the portfolio folder
+* Enter "code ." 
 
 ## KNOWN BUGS
 
