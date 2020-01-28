@@ -22,6 +22,7 @@ This program was made using HTML, CSS and Bootstrap.
 * Open Terminal, type "git clone" then paste github link
 * cd to Desktop, then cd to the portfolio folder
 * Enter "code ." 
+* To access GithubPages site, download ZIP file from https://github.com/Code-Cacophony/code-cacophony.github.io, or clone link in terminal.
 
 ## KNOWN BUGS
 
